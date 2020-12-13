@@ -9,15 +9,21 @@
     align-items: center;
     text-align: center;
     min-width: 40%;
-    padding: 20px;
+    padding: 0 20px 20px 20px;
 }
 
 .list {
     list-style: none;
 }
 
+.container {
+    display: flex;
+    align-items: center;
+    
+}
+
 .image {
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
 }
